@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../plfolder/db_sync"
+		}
+	],
+	"settings": {}
+}
